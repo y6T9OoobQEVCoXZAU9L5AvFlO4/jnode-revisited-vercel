@@ -45,14 +45,14 @@
         window.$docsify = {
             name: "Jnode", // TODO: Update.
             repo: repoUrl,
-            //auto2top: true, //coverpage: true, // true->false->true or  coverpage: ['/', '/zh-cn/'] //coverpage: ['/'],
-            loadNavbar: true, // true->false->true
-            //loadSidebar: false, // false:default
-            //alias: {
-            //  '/.*/_sidebar.md': '/_sidebar.md',
-            //},
-            //subMaxLevel: 3, //2->3
-            //sidebarDisplayLevel: 1, // set sidebar display level or delete this line
+            auto2top: true, //coverpage: true, // true->false->true or  coverpage: ['/', '/zh-cn/'] //coverpage: ['/'],
+            //loadNavbar: true, // true->false->true
+            loadSidebar: false, // false:default
+            alias: {
+            '/.*/_sidebar.md': '/_sidebar.md',
+            },
+            subMaxLevel: 3, //2->3
+            sidebarDisplayLevel: 1, // set sidebar display level or delete this line
             themeColor: "#3170a7", // TODO: Set your own color.
             plugins: [
                 EditOnGithubPlugin.create(editPath, null, editMsg)
