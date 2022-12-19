@@ -1,10 +1,10 @@
 <!-- _navbar.md to index.html -->
 
-- [Start here!](/#start-here!) 
-- [Documentation](/#documentation) 
-- [Download](/#downloads) 
-- [Contribute](/#contribute) 
-- [Status](/#status) 
-- [Screenshots](/screenshots/#screenshots) 
-- [Forums](/#forums) 
-- [Contact](/#contact)
+- [Start here!](/#start-here/README.md) 
+- [Documentation](/#documentation/README.md) 
+- [Download](/#downloads/README.md) 
+- [Contribute](/#contribute/README.md) 
+- [Status](/#status/README.md) 
+- [Screenshots](/screenshots/README.md) 
+- [Forums](/#forums/README.md) 
+- [Contact](/#contact/README.md)
