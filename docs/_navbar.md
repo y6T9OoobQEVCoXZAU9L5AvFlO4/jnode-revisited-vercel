@@ -5,6 +5,6 @@
 - [Download](/#downloads) 
 - [Contribute](/#contribute) 
 - [Status](/#status) 
-- [Screenshots](/#screenshots) 
+- [Screenshots](/screenshots/#screenshots) 
 - [Forums](/#forums) 
 - [Contact](/#contact)
