@@ -7,9 +7,7 @@
 ## Filesystem
 ```
 └─ docs/  - "docsify"
-│  └── assets/
-│  └── css/
-│  └── js/
+│  └── folder-file/
 |  └── index.html
 ```
 
