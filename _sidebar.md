@@ -1,16 +1,5 @@
 <!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
 
-
-## Head menu
-- [Start here!](/#start-here!) 
-- [Documentation](/#documentation) 
-- [Download](/#downloads) 
-- [Contribute](/#contribute) 
-- [Status](/#status) 
-- [Screenshots](/#screenshots) 
-- [Forums](/#forums) 
-- [Contact](/#contact)
-
 ## Sidebar-menu
 - [Artwork](#artwork)
 - [Blog](#blog)
