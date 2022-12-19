@@ -42,7 +42,3 @@
 - Me 3
 - Me again
 - More
-
-## Warning
-- Copyright (c) JNode.org 2013	
-- This page is optimized for Mozilla Firefox
