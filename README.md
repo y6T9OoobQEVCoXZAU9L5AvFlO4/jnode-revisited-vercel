@@ -7,3 +7,5 @@ jnode-revisited-vercel
 ## Initialize
 ```docsify init```
 
+## Preview your site
+```docsify serve docs```
