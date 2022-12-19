@@ -1,36 +1,36 @@
 <!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
 
-## Main menu
+### Main menu
 - [Artwork](#artwork)
 - [Blog](#blog)
 - [Browser](#browser)
 - [Changelog](#changelog)
 
-## Navigation
+### Navigation
 - [Issues](/#issues)
 - [Bugs & feature requests (old)](/#bugs-and-features)
 - [Create content](/#create-content)
 - [Reports](/#reports)
 - [Recent posts](/#recent-posts)
 
-## JNode uses
+### JNode uses
 - add img OpenJDK
 - add img GNU Classpath
 
-## Information
+### Information
 - I like JNode!
 - Ohloh project report for JNode
 - [Donations](/#donations)
 
-## Login
+### Login
 - [User login](/#user-login)
 
-## Active forum topics
+### Active forum topics
 - Observations on a first time build
 - Creation of a Device I/O API in OpenJDK
 - How to convert a real mode address to a protected mode address in JNode ?
 
-## Recent blog posts
+### Recent blog posts
 - OSGi
 - Thoughts on Documentation
 - Hyper-V
