@@ -1,6 +1,6 @@
 <!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
 
-## Sidebar-menu
+## Main menu
 - [Artwork](#artwork)
 - [Blog](#blog)
 - [Browser](#browser)
@@ -17,7 +17,7 @@
 - add img OpenJDK
 - add img GNU Classpath
 
-## Another sidebar
+## Information
 - I like JNode!
 - Ohloh project report for JNode
 - [Donations](/#donations)
@@ -46,5 +46,3 @@
 ## Warning
 - Copyright (c) JNode.org 2013	
 - This page is optimized for Mozilla Firefox
-
-
