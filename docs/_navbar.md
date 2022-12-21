@@ -11,6 +11,7 @@
 - [Blog](/blog/)
 - [Browser](/browser/)
 - [Changelog](/changelog/)
+- [Login](#/user-login/)
 * Contact
   * [GitHub Discussions](#/add-link-1)
   * [Twitter](#/add-link-2)
