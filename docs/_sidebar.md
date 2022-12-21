@@ -1,17 +1,18 @@
 <!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
+<!-- slide:break -->
 
 ### Main menu
-- [Artwork](#artwork)
-- [Blog](#blog)
-- [Browser](#browser)
-- [Changelog](#changelog)
+- [Artwork](/artwork/)
+- [Blog](/blog/)
+- [Browser](/browser/)
+- [Changelog](/changelog/)
 
 ### Navigation
-- [Issues](/#issues)
-- [Bugs & feature requests (old)](/#bugs-and-features)
-- [Create content](/#create-content)
-- [Reports](/#reports)
-- [Recent posts](/#recent-posts)
+- [Issues](/issues/)
+- [Bugs & feature requests (old)](/bugs-and-features/)
+- [Create content](/create-content/)
+- [Reports](/reports/)
+- [Recent posts](/recent-posts/)
 
 ### JNode uses
 - add img OpenJDK
@@ -20,10 +21,10 @@
 ### Information
 - I like JNode!
 - Ohloh project report for JNode
-- [Donations](/#donations)
+- [Donations](/donations/)
 
 ### Login
-- [User login](/#user-login)
+- [User login](/user-login/)
 
 ### Active forum topics
 - Observations on a first time build
