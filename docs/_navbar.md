@@ -7,7 +7,10 @@
 - [Status](/status/) 
 - [Screenshots](/screenshots/) 
 - [Forums](/forums/) 
-
+- [Artwork](/artwork/)
+- [Blog](/blog/)
+- [Browser](/browser/)
+- [Changelog](/changelog/)
 * Contact
   * [GitHub Discussions](#/add-link-1)
   * [Twitter](#/add-link-2)
