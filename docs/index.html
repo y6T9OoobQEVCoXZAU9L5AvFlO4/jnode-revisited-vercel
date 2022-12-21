@@ -75,6 +75,40 @@
             plugins: [
                 EditOnGithubPlugin.create(editPath, null, editMsg)
             ],
+             search: 'auto', // default
+
+    search : [
+      '/',            // => /README.md
+      '/artwork/',      // => /zh-cn/README.md
+       '/blog/',      // => /zh-cn/README.md
+          '/changelog/',      // => /zh-cn/README.md
+       '/rfc/',      // => /zh-cn/README.md
+    ],
+
+    // complete configuration parameters
+    search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: [], // or 'auto'
+      placeholder: 'Type to search',
+
+      // Localization
+      placeholder: {
+        '/zh-cn/': '搜索',
+        '/': 'Type to search'
+      },
+
+      noData: 'No Results!',
+
+      // Localization
+      noData: {
+        '/zh-cn/': '找不到结果',
+        '/': 'No Results'
+      },
+
+      // Headline depth, 1 - 6
+      depth: 2,
+
+      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
         }
     </script>
     <!-- body -->
