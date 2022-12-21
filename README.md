@@ -1,10 +1,8 @@
 # jnode-revisited-github-io
 ![image](https://user-images.githubusercontent.com/111701513/208514277-a1a8a375-1d76-47cd-8ee9-f2f179329155.png)
 
-## Technologies and created with
+## Technologies
 Jnode.org, Github-Pages, docsify-js-template, HTML, CSS, JS, Theme Alamehan, GitHub Discussions, Docsify ^^
-
-*if add new host: Vercel, Netlify too*
 
 ## Quick start
 ```npm i docsify-cli -g```
