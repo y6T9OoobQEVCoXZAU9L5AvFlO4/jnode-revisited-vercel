@@ -7,6 +7,9 @@
 - [Status](/status/) 
 - [Screenshots](/screenshots/) 
 - [Forums](/forums/) 
-- [Contact](/contact/) 
-   - [GitHub Discussions](#/add-link-1)
-   - [Twitter](#/add-link-2)
+
+* Contact
+  * [GitHub Discussions](#/add-link-1)
+  * [Twitter](#/add-link-2)
+  * [Issues](#/add-link-3)
+  * [Pull Request](#/add-link-4)
