@@ -8,3 +8,5 @@
 - [Screenshots](/screenshots/) 
 - [Forums](/forums/) 
 - [Contact](/contact/) 
+   - [GitHub Discussions](#/add-link-1)
+   - [Twitter](#/add-link-2)
