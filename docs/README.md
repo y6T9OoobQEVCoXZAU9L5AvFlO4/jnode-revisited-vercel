@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/5927154?s=280&v=4" min-width="200px" max-width="200px" width="200px" align="right" alt="Logo Jnode and contributors"/>
+<img src="https://avatars.githubusercontent.com/u/5927154?s=280&v=4" align="center" alt="Logo Jnode and contributors"/>
 </div>
 
 <br/>
