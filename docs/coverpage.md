@@ -13,7 +13,3 @@
 [Get Started](introduction)
 [Back to Jnode.ro](http://jnode.ro/)
 [GitHub Jnode](http://github.com/jnode-revisited/jnode/)
-
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/5927154?s=280&v=4" align="center" alt="Logo Jnode and contributors"/>
-</div>
