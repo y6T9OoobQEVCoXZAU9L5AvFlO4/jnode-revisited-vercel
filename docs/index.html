@@ -6,21 +6,23 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <title>jnode-revisited and docs</title> 
     <meta name="description" content="Description">
+    <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+    <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
     <!--- 
     <meta name="description" content="Documentation for the DocsifyJS Template project for making your own DocsifyJS docs site"> 
     <link rel="stylesheet" href="https://unpkg.com/docsify@4/lib/themes/vue.css">  TODO: Replace the theme name or leave as is. 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple" /> 
     -->
-    <!-- Themes (light + dark) -->
-    <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-    <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
     <style>
         /* Fix issue on mobile devices where a custom cover image goes off the screen. */
         section.cover.show {
             height: 100%;
         }
     </style>
+</head>
+<body>
+    <div id="app"></div>
     <!-- plugins: Required -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
@@ -41,9 +43,6 @@
     <script src=”https://cdn.jsdelivr.net/npm/docsify-tabs@1″></script>
     <script src=”//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js”></script>
     <script src=”//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js”></script> ---->
-</head>
-<body>
-    <div id="app"></div>
     <script>
         var repoUrl = "https://github.com/jnode-revisited/jnode-revisited.github.io"; //=> "https://github.com/username/docsify-js-template"; // TODO: Update.
         var editPath = repoUrl+"/blob/master/docs/";
