@@ -1,34 +1,19 @@
+# Jnode Documentation
+
+> Welcome to JNode.org, the website of the Java New Operating System Design Effort. 
+
+- JNode is a simple to use & install Java operating system for personal use.
+- It runs on modern devices.
+- Any java application will run on it, fast & secure!
+- JNode is open source and uses the LGPL license.
+- This page is optimized for Mozilla Firefox
+- The documentation is licensed with Copyright (c) JNode.org 2013 and contributors
+- The documentation is written in [docsify.js](https://docsify.js.org)
+
+[Get Started](introduction)
+[Back to Jnode.ro](http://jnode.ro/)
+[GitHub Jnode](http://github.com/jnode-revisited/jnode/)
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/5927154?s=280&v=4" align="center" alt="Logo Jnode and contributors"/>
-</div>
-
-<br/>
-
-<p align="left"> 
- Welcome to JNode.org, the website of the Java New Operating System Design Effort.
-</p>
-
-<p align="left">
-   JNode is a simple to use & install Java operating system for personal use.
-</p>
-
-<p align="left">
- It runs on modern devices.
-</p>
-
-<p align="left">
- Any java application will run on it, fast & secure!
-</p>
-
-<p align="left">
- JNode is open source and uses the LGPL license.
-</p>
-
-<div align="center">
-  Copyright (c) JNode.org 2013
-</div>
-
-<div align="center">
-    This page is optimized for Mozilla Firefox
 </div>
