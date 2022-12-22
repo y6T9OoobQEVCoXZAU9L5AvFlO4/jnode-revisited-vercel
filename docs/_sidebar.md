@@ -3,6 +3,7 @@
 
 ### Navigation
 - [Issues](/issues/)
+- [Node](/node/)
 - [Bugs & feature requests (old)](/bugs-and-features/)
 - [Create content](/create-content/)
 - [Reports](/reports/)
