@@ -28,7 +28,7 @@
 
 ### Recent blog posts
 - OSGi
-- Thoughts on Documentation
+- [Thoughts on Documentation ](/node/3393/)
 - Hyper-V
 - A new, natural, simple way to perceive files. (With JNode planned as foundation)
 - Contribution
